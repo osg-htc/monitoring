@@ -1,0 +1,5 @@
+{  
+   "issuer":"https://osg-htc.org/monitoring",
+   "jwks_uri":"https://osg-htc.org/monitoring/oauth2/certs",
+   "token_endpoint":"https://monitoring.osg-htc.org/token"
+}
